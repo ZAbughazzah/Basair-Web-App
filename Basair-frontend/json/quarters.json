@@ -1,0 +1,1923 @@
+[
+  {
+    "juz": 1,
+    "quarterNumber": 1,
+    "index": 1,
+    "sura": 1,
+    "aya": 1,
+    "page":1
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 2,
+    "index": 2,
+    "sura": 2,
+    "aya": 26,
+    "page":5
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 3,
+    "index": 3,
+    "sura": 2,
+    "aya": 44,
+    "page":7
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 4,
+    "index": 4,
+    "sura": 2,
+    "aya": 60,
+    "page":9
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 5,
+    "index": 5,
+    "sura": 2,
+    "aya": 75,
+    "page":11
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 6,
+    "index": 6,
+    "sura": 2,
+    "aya": 92,
+    "page":14
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 7,
+    "index": 7,
+    "sura": 2,
+    "aya": 106,
+    "page":17
+  },
+  {
+    "juz": 1,
+    "quarterNumber": 8,
+    "index": 8,
+    "sura": 2,
+    "aya": 124,
+    "page":19
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 1,
+    "index": 9,
+    "sura": 2,
+    "aya": 142,
+    "page":22
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 2,
+    "index": 10,
+    "sura": 2,
+    "aya": 158,
+    "page":24
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 3,
+    "index": 11,
+    "sura": 2,
+    "aya": 177,
+    "page":27
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 4,
+    "index": 12,
+    "sura": 2,
+    "aya": 189,
+    "page":29
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 5,
+    "index": 13,
+    "sura": 2,
+    "aya": 203,
+    "page":32
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 6,
+    "index": 14,
+    "sura": 2,
+    "aya": 219,
+    "page":34
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 7,
+    "index": 15,
+    "sura": 2,
+    "aya": 233,
+    "page":37
+  },
+  {
+    "juz": 2,
+    "quarterNumber": 8,
+    "index": 16,
+    "sura": 2,
+    "aya": 243,
+    "page":39
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 1,
+    "index": 17,
+    "sura": 2,
+    "aya": 253,
+    "page":42
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 2,
+    "index": 18,
+    "sura": 2,
+    "aya": 263,
+    "page":44
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 3,
+    "index": 19,
+    "sura": 2,
+    "aya": 272,
+    "page":46
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 4,
+    "index": 20,
+    "sura": 2,
+    "aya": 283,
+    "page":49
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 5,
+    "index": 21,
+    "sura": 3,
+    "aya": 15,
+    "page":51
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 6,
+    "index": 22,
+    "sura": 3,
+    "aya": 33,
+    "page":54
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 7,
+    "index": 23,
+    "sura": 3,
+    "aya": 52,
+    "page":56
+  },
+  {
+    "juz": 3,
+    "quarterNumber": 8,
+    "index": 24,
+    "sura": 3,
+    "aya": 75,
+    "page":59
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 1,
+    "index": 25,
+    "sura": 3,
+    "aya": 93,
+    "page":62
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 2,
+    "index": 26,
+    "sura": 3,
+    "aya": 113,
+    "page":64
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 3,
+    "index": 27,
+    "sura": 3,
+    "aya": 133,
+    "page":67
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 4,
+    "index": 28,
+    "sura": 3,
+    "aya": 153,
+    "page":69
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 5,
+    "index": 29,
+    "sura": 3,
+    "aya": 171,
+    "page":72
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 6,
+    "index": 30,
+    "sura": 3,
+    "aya": 186,
+    "page":74
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 7,
+    "index": 31,
+    "sura": 4,
+    "aya": 1,
+    "page":77
+  },
+  {
+    "juz": 4,
+    "quarterNumber": 8,
+    "index": 32,
+    "sura": 4,
+    "aya": 12,
+    "page":79
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 1,
+    "index": 33,
+    "sura": 4,
+    "aya": 24,
+    "page":82
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 2,
+    "index": 34,
+    "sura": 4,
+    "aya": 36,
+    "page":84
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 3,
+    "index": 35,
+    "sura": 4,
+    "aya": 58,
+    "page":87
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 4,
+    "index": 36,
+    "sura": 4,
+    "aya": 74,
+    "page":89
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 5,
+    "index": 37,
+    "sura": 4,
+    "aya": 88,
+    "page":92
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 6,
+    "index": 38,
+    "sura": 4,
+    "aya": 100,
+    "page":94
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 7,
+    "index": 39,
+    "sura": 4,
+    "aya": 114,
+    "page":97
+  },
+  {
+    "juz": 5,
+    "quarterNumber": 8,
+    "index": 40,
+    "sura": 4,
+    "aya": 135,
+    "page":100
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 1,
+    "index": 41,
+    "sura": 4,
+    "aya": 148,
+    "page":102
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 2,
+    "index": 42,
+    "sura": 4,
+    "aya": 163,
+    "page":104
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 3,
+    "index": 43,
+    "sura": 5,
+    "aya": 1,
+    "page":106
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 4,
+    "index": 44,
+    "sura": 5,
+    "aya": 12,
+    "page":109
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 5,
+    "index": 45,
+    "sura": 5,
+    "aya": 27,
+    "page":112
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 6,
+    "index": 46,
+    "sura": 5,
+    "aya": 41,
+    "page":114
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 7,
+    "index": 47,
+    "sura": 5,
+    "aya": 51,
+    "page":117
+  },
+  {
+    "juz": 6,
+    "quarterNumber": 8,
+    "index": 48,
+    "sura": 5,
+    "aya": 67,
+    "page":119
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 1,
+    "index": 49,
+    "sura": 5,
+    "aya": 82,
+    "page":121
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 2,
+    "index": 50,
+    "sura": 5,
+    "aya": 97,
+    "page":124
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 3,
+    "index": 51,
+    "sura": 5,
+    "aya": 109,
+    "page":126
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 4,
+    "index": 52,
+    "sura": 6,
+    "aya": 13,
+    "page":129
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 5,
+    "index": 53,
+    "sura": 6,
+    "aya": 36,
+    "page":132
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 6,
+    "index": 54,
+    "sura": 6,
+    "aya": 59,
+    "page":134
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 7,
+    "index": 55,
+    "sura": 6,
+    "aya": 74,
+    "page":137
+  },
+  {
+    "juz": 7,
+    "quarterNumber": 8,
+    "index": 56,
+    "sura": 6,
+    "aya": 95,
+    "page":140
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 1,
+    "index": 57,
+    "sura": 6,
+    "aya": 111,
+    "page":142
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 2,
+    "index": 58,
+    "sura": 6,
+    "aya": 127,
+    "page":144
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 3,
+    "index": 59,
+    "sura": 6,
+    "aya": 141,
+    "page":146
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 4,
+    "index": 60,
+    "sura": 6,
+    "aya": 151,
+    "page":148
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 5,
+    "index": 61,
+    "sura": 7,
+    "aya": 1,
+    "page":151
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 6,
+    "index": 62,
+    "sura": 7,
+    "aya": 31,
+    "page":154
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 7,
+    "index": 63,
+    "sura": 7,
+    "aya": 47,
+    "page":156
+  },
+  {
+    "juz": 8,
+    "quarterNumber": 8,
+    "index": 64,
+    "sura": 7,
+    "aya": 65,
+    "page":158
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 1,
+    "index": 65,
+    "sura": 7,
+    "aya": 88,
+    "page":162
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 2,
+    "index": 66,
+    "sura": 7,
+    "aya": 117,
+    "page":164
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 3,
+    "index": 67,
+    "sura": 7,
+    "aya": 142,
+    "page":167
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 4,
+    "index": 68,
+    "sura": 7,
+    "aya": 156,
+    "page":170
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 5,
+    "index": 69,
+    "sura": 7,
+    "aya": 171,
+    "page":173
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 6,
+    "index": 70,
+    "sura": 7,
+    "aya": 189,
+    "page":175
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 7,
+    "index": 71,
+    "sura": 8,
+    "aya": 1,
+    "page":177
+  },
+  {
+    "juz": 9,
+    "quarterNumber": 8,
+    "index": 72,
+    "sura": 8,
+    "aya": 22,
+    "page":179
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 1,
+    "index": 73,
+    "sura": 8,
+    "aya": 41,
+    "page":182
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 2,
+    "index": 74,
+    "sura": 8,
+    "aya": 61,
+    "page":184
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 3,
+    "index": 75,
+    "sura": 9,
+    "aya": 1,
+    "page":187
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 4,
+    "index": 76,
+    "sura": 9,
+    "aya": 19,
+    "page":189
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 5,
+    "index": 77,
+    "sura": 9,
+    "aya": 34,
+    "page":192
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 6,
+    "index": 78,
+    "sura": 9,
+    "aya": 46,
+    "page":194
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 7,
+    "index": 79,
+    "sura": 9,
+    "aya": 60,
+    "page":196
+  },
+  {
+    "juz": 10,
+    "quarterNumber": 8,
+    "index": 80,
+    "sura": 9,
+    "aya": 75,
+    "page":199
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 1,
+    "index": 81,
+    "sura": 9,
+    "aya": 93,
+    "page":201
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 2,
+    "index": 82,
+    "sura": 9,
+    "aya": 111,
+    "page":204
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 3,
+    "index": 83,
+    "sura": 9,
+    "aya": 122,
+    "page":206
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 4,
+    "index": 84,
+    "sura": 10,
+    "aya": 11,
+    "page":209
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 5,
+    "index": 85,
+    "sura": 10,
+    "aya": 26,
+    "page":212
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 6,
+    "index": 86,
+    "sura": 10,
+    "aya": 53,
+    "page":214
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 7,
+    "index": 87,
+    "sura": 10,
+    "aya": 71,
+    "page":217
+  },
+  {
+    "juz": 11,
+    "quarterNumber": 8,
+    "index": 88,
+    "sura": 10,
+    "aya": 90,
+    "page":219
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 1,
+    "index": 89,
+    "sura": 11,
+    "aya": 6,
+    "page":222
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 2,
+    "index": 90,
+    "sura": 11,
+    "aya": 24,
+    "page":224
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 3,
+    "index": 91,
+    "sura": 11,
+    "aya": 41,
+    "page":226
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 4,
+    "index": 92,
+    "sura": 11,
+    "aya": 61,
+    "page":228
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 5,
+    "index": 93,
+    "sura": 11,
+    "aya": 84,
+    "page":231
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 6,
+    "index": 94,
+    "sura": 11,
+    "aya": 108,
+    "page":233
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 7,
+    "index": 95,
+    "sura": 12,
+    "aya": 7,
+    "page":236
+  },
+  {
+    "juz": 12,
+    "quarterNumber": 8,
+    "index": 96,
+    "sura": 12,
+    "aya": 30,
+    "page":238
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 1,
+    "index": 97,
+    "sura": 12,
+    "aya": 53,
+    "page":242
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 2,
+    "index": 98,
+    "sura": 12,
+    "aya": 77,
+    "page":244
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 3,
+    "index": 99,
+    "sura": 12,
+    "aya": 101,
+    "page":247
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 4,
+    "index": 100,
+    "sura": 13,
+    "aya": 5,
+    "page":249
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 5,
+    "index": 101,
+    "sura": 13,
+    "aya": 19,
+    "page":252
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 6,
+    "index": 102,
+    "sura": 13,
+    "aya": 35,
+    "page":254
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 7,
+    "index": 103,
+    "sura": 14,
+    "aya": 10,
+    "page":256
+  },
+  {
+    "juz": 13,
+    "quarterNumber": 8,
+    "index": 104,
+    "sura": 14,
+    "aya": 28,
+    "page":259
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 1,
+    "index": 105,
+    "sura": 15,
+    "aya": 1,
+    "page":262
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 2,
+    "index": 106,
+    "sura": 15,
+    "aya": 50,
+    "page":264
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 3,
+    "index": 107,
+    "sura": 16,
+    "aya": 1,
+    "page":267
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 4,
+    "index": 108,
+    "sura": 16,
+    "aya": 30,
+    "page":270
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 5,
+    "index": 109,
+    "sura": 16,
+    "aya": 51,
+    "page":272
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 6,
+    "index": 110,
+    "sura": 16,
+    "aya": 75,
+    "page":275
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 7,
+    "index": 111,
+    "sura": 16,
+    "aya": 90,
+    "page":277
+  },
+  {
+    "juz": 14,
+    "quarterNumber": 8,
+    "index": 112,
+    "sura": 16,
+    "aya": 111,
+    "page":280
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 1,
+    "index": 113,
+    "sura": 17,
+    "aya": 1,
+    "page":282
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 2,
+    "index": 114,
+    "sura": 17,
+    "aya": 23,
+    "page":284
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 3,
+    "index": 115,
+    "sura": 17,
+    "aya": 50,
+    "page":287
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 4,
+    "index": 116,
+    "sura": 17,
+    "aya": 70,
+    "page":289
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 5,
+    "index": 117,
+    "sura": 17,
+    "aya": 99,
+    "page":292
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 6,
+    "index": 118,
+    "sura": 18,
+    "aya": 17,
+    "page":295
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 7,
+    "index": 119,
+    "sura": 18,
+    "aya": 32,
+    "page":297
+  },
+  {
+    "juz": 15,
+    "quarterNumber": 8,
+    "index": 120,
+    "sura": 18,
+    "aya": 51,
+    "page":299
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 1,
+    "index": 121,
+    "sura": 18,
+    "aya": 75,
+    "page":302
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 2,
+    "index": 122,
+    "sura": 18,
+    "aya": 99,
+    "page":304
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 3,
+    "index": 123,
+    "sura": 19,
+    "aya": 22,
+    "page":306
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 4,
+    "index": 124,
+    "sura": 19,
+    "aya": 59,
+    "page":309
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 5,
+    "index": 125,
+    "sura": 20,
+    "aya": 1,
+    "page":312
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 6,
+    "index": 126,
+    "sura": 20,
+    "aya": 55,
+    "page":315
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 7,
+    "index": 127,
+    "sura": 20,
+    "aya": 83,
+    "page":317
+  },
+  {
+    "juz": 16,
+    "quarterNumber": 8,
+    "index": 128,
+    "sura": 20,
+    "aya": 111,
+    "page":319
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 1,
+    "index": 129,
+    "sura": 21,
+    "aya": 1,
+    "page":322
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 2,
+    "index": 130,
+    "sura": 21,
+    "aya": 29,
+    "page":324
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 3,
+    "index": 131,
+    "sura": 21,
+    "aya": 51,
+    "page":326
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 4,
+    "index": 132,
+    "sura": 21,
+    "aya": 83,
+    "page":329
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 5,
+    "index": 133,
+    "sura": 22,
+    "aya": 1,
+    "page":332
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 6,
+    "index": 134,
+    "sura": 22,
+    "aya": 19,
+    "page":334
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 7,
+    "index": 135,
+    "sura": 22,
+    "aya": 38,
+    "page":336
+  },
+  {
+    "juz": 17,
+    "quarterNumber": 8,
+    "index": 136,
+    "sura": 22,
+    "aya": 60,
+    "page":339
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 1,
+    "index": 137,
+    "sura": 23,
+    "aya": 1,
+    "page":342
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 2,
+    "index": 138,
+    "sura": 23,
+    "aya": 36,
+    "page":344
+  },
+  {
+    "juz": 18,
+    "quarterNumber":3,
+    "index": 139,
+    "sura": 23,
+    "aya": 75,
+    "page":347
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 4,
+    "index": 140,
+    "sura": 24,
+    "aya": 1,
+    "page":350
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 5,
+    "index": 141,
+    "sura": 24,
+    "aya": 21,
+    "page":352
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 6,
+    "index": 142,
+    "sura": 24,
+    "aya": 35,
+    "page":354
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 7,
+    "index": 143,
+    "sura": 24,
+    "aya": 53,
+    "page":356
+  },
+  {
+    "juz": 18,
+    "quarterNumber": 8,
+    "index": 144,
+    "sura": 25,
+    "aya": 1,
+    "page":359
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 1,
+    "index": 145,
+    "sura": 25,
+    "aya": 21,
+    "page":362
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 2,
+    "index": 146,
+    "sura": 25,
+    "aya": 53,
+    "page":364
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 3,
+    "index": 147,
+    "sura": 26,
+    "aya": 1,
+    "page":367
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 4,
+    "index": 148,
+    "sura": 26,
+    "aya": 52,
+    "page":369
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 5,
+    "index": 149,
+    "sura": 26,
+    "aya": 111,
+    "page":371
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 6,
+    "index": 150,
+    "sura": 26,
+    "aya": 181,
+    "page":374
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 7,
+    "index": 151,
+    "sura": 27,
+    "aya": 1,
+    "page":377
+  },
+  {
+    "juz": 19,
+    "quarterNumber": 8,
+    "index": 152,
+    "sura": 27,
+    "aya": 27,
+    "page":379
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 1,
+    "index": 153,
+    "sura": 27,
+    "aya": 56,
+    "page":382
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 2,
+    "index": 154,
+    "sura": 27,
+    "aya": 82,
+    "page":384
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 3,
+    "index": 155,
+    "sura": 28,
+    "aya": 12,
+    "page":386
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 4,
+    "index": 156,
+    "sura": 28,
+    "aya": 29,
+    "page":389
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 5,
+    "index": 157,
+    "sura": 28,
+    "aya": 51,
+    "page":392
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 6,
+    "index": 158,
+    "sura": 28,
+    "aya": 76,
+    "page":394
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 7,
+    "index": 159,
+    "sura": 29,
+    "aya": 1,
+    "page":396
+  },
+  {
+    "juz": 20,
+    "quarterNumber": 8,
+    "index": 160,
+    "sura": 29,
+    "aya": 26,
+    "page":399
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 1,
+    "index": 161,
+    "sura": 29,
+    "aya": 46,
+    "page":402
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 2,
+    "index": 162,
+    "sura": 30,
+    "aya": 1,
+    "page":404
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 3,
+    "index": 163,
+    "sura": 30,
+    "aya": 31,
+    "page":407
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 4,
+    "index": 164,
+    "sura": 30,
+    "aya": 54,
+    "page":410
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 5,
+    "index": 165,
+    "sura": 31,
+    "aya": 22,
+    "page":413
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 6,
+    "index": 166,
+    "sura": 32,
+    "aya": 11,
+    "page":415
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 7,
+    "index": 167,
+    "sura": 33,
+    "aya": 1,
+    "page":418
+  },
+  {
+    "juz": 21,
+    "quarterNumber": 8,
+    "index": 168,
+    "sura": 33,
+    "aya": 18,
+    "page":420
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 1,
+    "index": 169,
+    "sura": 33,
+    "aya": 31,
+    "page":422
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 2,
+    "index": 170,
+    "sura": 33,
+    "aya": 51,
+    "page":425
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 3,
+    "index": 171,
+    "sura": 33,
+    "aya": 60,
+    "page":426
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 4,
+    "index": 172,
+    "sura": 34,
+    "aya": 10,
+    "page":429
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 5,
+    "index": 173,
+    "sura": 34,
+    "aya": 24,
+    "page":431
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 6,
+    "index": 174,
+    "sura": 34,
+    "aya": 46,
+    "page":433
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 7,
+    "index": 175,
+    "sura": 35,
+    "aya": 15,
+    "page":436
+  },
+  {
+    "juz": 22,
+    "quarterNumber": 8,
+    "index": 176,
+    "sura": 35,
+    "aya": 41,
+    "page":439
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 1,
+    "index": 177,
+    "sura": 36,
+    "aya": 28,
+    "page":442
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 2,
+    "index": 178,
+    "sura": 36,
+    "aya": 60,
+    "page":444
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 3,
+    "index": 179,
+    "sura": 37,
+    "aya": 22,
+    "page":446
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 4,
+    "index": 180,
+    "sura": 37,
+    "aya": 83,
+    "page":449
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 5,
+    "index": 181,
+    "sura": 37,
+    "aya": 145,
+    "page":451
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 6,
+    "index": 182,
+    "sura": 38,
+    "aya": 21,
+    "page":454
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 7,
+    "index": 183,
+    "sura": 38,
+    "aya": 52,
+    "page":456
+  },
+  {
+    "juz": 23,
+    "quarterNumber": 8,
+    "index": 184,
+    "sura": 39,
+    "aya": 8,
+    "page":459
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 1,
+    "index": 185,
+    "sura": 39,
+    "aya": 32,
+    "page":462
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 2,
+    "index": 186,
+    "sura": 39,
+    "aya": 53,
+    "page":464
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 3,
+    "index": 187,
+    "sura": 40,
+    "aya": 1,
+    "page":467
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 4,
+    "index": 188,
+    "sura": 40,
+    "aya": 21,
+    "page":469
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 5,
+    "index": 189,
+    "sura": 40,
+    "aya": 41,
+    "page":472
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 6,
+    "index": 190,
+    "sura": 40,
+    "aya": 66,
+    "page":474
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 7,
+    "index": 191,
+    "sura": 41,
+    "aya": 9,
+    "page":477
+  },
+  {
+    "juz": 24,
+    "quarterNumber": 8,
+    "index": 192,
+    "sura": 41,
+    "aya": 25,
+    "page":479
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 1,
+    "index": 193,
+    "sura": 41,
+    "aya": 47,
+    "page":482
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 2,
+    "index": 194,
+    "sura": 42,
+    "aya": 13,
+    "page":484
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 3,
+    "index": 195,
+    "sura": 42,
+    "aya": 27,
+    "page":486
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 4,
+    "index": 196,
+    "sura": 42,
+    "aya": 51,
+    "page":488
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 5,
+    "index": 197,
+    "sura": 43,
+    "aya": 24,
+    "page":491
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 6,
+    "index": 198,
+    "sura": 43,
+    "aya": 57,
+    "page":493
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 7,
+    "index": 199,
+    "sura": 44,
+    "aya": 17,
+    "page":496
+  },
+  {
+    "juz": 25,
+    "quarterNumber": 8,
+    "index": 200,
+    "sura": 45,
+    "aya": 12,
+    "page":499
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 1,
+    "index": 201,
+    "sura": 46,
+    "aya": 1,
+    "page":502
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 2,
+    "index": 202,
+    "sura": 46,
+    "aya": 21,
+    "page":505
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 3,
+    "index": 203,
+    "sura": 47,
+    "aya": 10,
+    "page":507
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 4,
+    "index": 204,
+    "sura": 47,
+    "aya": 33,
+    "page":510
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 5,
+    "index": 205,
+    "sura": 48,
+    "aya": 18,
+    "page":513
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 6,
+    "index": 206,
+    "sura": 49,
+    "aya": 1,
+    "page":515
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 7,
+    "index": 207,
+    "sura": 49,
+    "aya": 14,
+    "page":517
+  },
+  {
+    "juz": 26,
+    "quarterNumber": 8,
+    "index": 208,
+    "sura": 50,
+    "aya": 27,
+    "page":519
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 1,
+    "index": 209,
+    "sura": 51,
+    "aya": 31,
+    "page":522
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 2,
+    "index": 210,
+    "sura": 52,
+    "aya": 24,
+    "page":524
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 3,
+    "index": 211,
+    "sura": 53,
+    "aya": 26,
+    "page":526
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 4,
+    "index": 212,
+    "sura": 54,
+    "aya": 9,
+    "page":529
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 5,
+    "index": 213,
+    "sura": 55,
+    "aya": 1,
+    "page":531
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 6,
+    "index": 214,
+    "sura": 56,
+    "aya": 1,
+    "page":534
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 7,
+    "index": 215,
+    "sura": 56,
+    "aya": 75,
+    "page":536
+  },
+  {
+    "juz": 27,
+    "quarterNumber": 8,
+    "index": 216,
+    "sura": 57,
+    "aya": 16,
+    "page":539
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 1,
+    "index": 217,
+    "sura": 58,
+    "aya": 1,
+    "page":542
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 2,
+    "index": 218,
+    "sura": 58,
+    "aya": 14,
+    "page":544
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 3,
+    "index": 219,
+    "sura": 59,
+    "aya": 11,
+    "page":547
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 4,
+    "index": 220,
+    "sura": 60,
+    "aya": 7,
+    "page":550
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 5,
+    "index": 221,
+    "sura": 62,
+    "aya": 1,
+    "page":553
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 6,
+    "index": 222,
+    "sura": 63,
+    "aya": 4,
+    "page":554
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 7,
+    "index": 223,
+    "sura": 65,
+    "aya": 1,
+    "page":558
+  },
+  {
+    "juz": 28,
+    "quarterNumber": 8,
+    "index": 224,
+    "sura": 66,
+    "aya": 1,
+    "page":560
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 1,
+    "index": 225,
+    "sura": 67,
+    "aya": 1,
+    "page":562
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 2,
+    "index": 226,
+    "sura": 68,
+    "aya": 1,
+    "page":564
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 3,
+    "index": 227,
+    "sura": 69,
+    "aya": 1,
+    "page":566
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 4,
+    "index": 228,
+    "sura": 70,
+    "aya": 19,
+    "page":569
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 5,
+    "index": 229,
+    "sura": 72,
+    "aya": 1,
+    "page":572
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 6,
+    "index": 230,
+    "sura": 73,
+    "aya": 20,
+    "page":575
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 7,
+    "index": 231,
+    "sura": 75,
+    "aya": 1,
+    "page":577
+  },
+  {
+    "juz": 29,
+    "quarterNumber": 8,
+    "index": 232,
+    "sura": 76,
+    "aya": 19,
+    "page":579
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 1,
+    "index": 233,
+    "sura": 78,
+    "aya": 1,
+    "page":582
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 2,
+    "index": 234,
+    "sura": 80,
+    "aya": 1,
+    "page":585
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 3,
+    "index": 235,
+    "sura": 82,
+    "aya": 1,
+    "page":587
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 4,
+    "index": 236,
+    "sura": 84,
+    "aya": 1,
+    "page":589
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 5,
+    "index": 237,
+    "sura": 87,
+    "aya": 1,
+    "page":591
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 6,
+    "index": 238,
+    "sura": 90,
+    "aya": 1,
+    "page":594
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 7,
+    "index": 239,
+    "sura": 94,
+    "aya": 1,
+    "page":596
+  },
+  {
+    "juz": 30,
+    "quarterNumber": 8,
+    "index": 240,
+    "sura": 100,
+    "aya": 9,
+    "page":600
+  }
+
+]

@@ -1,0 +1,106 @@
+/*************************************************** DropDown ****************************************************/
+
+.quranNav {
+    padding: 0.7rem;
+    grid-area: quranNav;
+}
+
+.dropbtn {
+    margin: 1rem;
+    border-radius: 0.6rem;
+    background-color: #29c5c9;
+    color: white;
+    width: 6rem;
+    height: 2rem;
+    font-size: 1.5rem;
+    border: none;
+    box-shadow: 0px 8px 16px 0px rgb(32, 131, 131);
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 2rem;
+    box-shadow: 3px 8px 16px 1px rgb(32, 131, 131);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    margin-bottom: 1rem;
+    color: white;
+    padding: 0.3rem;
+    text-decoration: none;
+    display: block;
+    border: 1px solid whitesmoke;
+    border-radius: 0.6rem;
+    background-color: #29c5c9;
+    font-weight: bold;
+    width: 5rem;
+    height: auto;
+}
+
+.dropdown-content a:hover {
+    background-color: white;
+    color: #29c5c9;
+    border: 1px solid #29c5c9;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.dropdown-content li {
+    list-style: none;
+}
+
+.dropdown-content div {
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: #1c8586;
+}
+
+.dropdown-content #juzsList {
+    columns: 10;
+}
+
+.dropdown-content #quartersList {
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+
+}
+
+.hizbName {
+    width: 7.5rem;
+    margin: 0rem 1rem 1rem 1rem;
+    color: #29c5c9;
+    padding: 0.6rem;
+    text-decoration: none;
+    display: block;
+    border: 0.1px solid #29c5c9;
+    border-radius: 0.6rem;
+    background-color: whitesmoke;
+    height: auto;
+    font-size: 1.15rem;
+
+}
+
+.dropdown-content #surahList {
+    columns: 17;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    position: absolute;
+}
+
+.dropdown:hover .dropbtn {
+    border: 0.3px solid white;
+}

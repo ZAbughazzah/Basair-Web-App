@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" xml:lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>الصفحة الرئيسة</title>
+    <link rel="icon" href="./img/Basair-logo.png" type="image/png">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/dropdown.css">
+    <link rel="stylesheet" href="styles/horizontal-scroll.css">
+    <link rel="stylesheet" href="styles/page-nav.css">
+    <link rel="stylesheet" href="styles/tree.css">
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Aref+Ruqaa&family=Lateef&family=Scheherazade+New&display=swap" rel="stylesheet">
+</head>
+<body>
+<header>
+
+    <img src="img/Basair-logo.png" alt="logo" class="logo">
+    <div class="hwrap">
+        <div class="hitem">هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍۢ يُوقِنُونَ</div>
+    </div>
+    <div class="quranNav">
+        <div class="dropdown" >
+
+            <button class="dropbtn">سورة</button>
+            <div class="dropdown-content">
+                <ul id="surahList">
+
+                </ul>
+            </div>
+
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">جزء</button>
+            <div class="dropdown-content">
+                <div>الأجزاء</div>
+                <ul id="juzsList">
+
+                </ul>
+                <div>الأرباع</div>
+                <ul id="quartersList">
+                    <li><p class="hizbName" href="">الحزب الأول</p></li>
+                    <li><a onclick="gotoHizb(1)" id="hizb_1" class="active">1</a></li>
+                    <li><a onclick="gotoHizb(2)" id="hizb_2">2</a></li>
+                    <li><a onclick="gotoHizb(3)" id="hizb_3">3</a></li>
+                    <li><a onclick="gotoHizb(4)" id="hizb_4">4</a></li>
+                    <li><p class="hizbName" href="">الحزب الثاني</p></li>
+                    <li><a onclick="gotoHizb(5)" id="hizb_5">5</a></li>
+                    <li><a onclick="gotoHizb(6)" id="hizb_6">6</a></li>
+                    <li><a onclick="gotoHizb(7)" id="hizb_7">7</a></li>
+                    <li><a onclick="gotoHizb(8)" id="hizb_8">8</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</header>
+<div class="treeBar">
+    <select class="treeBtn" id="treeBtn" onchange="loadMahawerContent()" >
+    </select>
+</div>
+<div class="navigation">
+    <div class="pageNavigator">
+        <input type="number" id="pageNumber" class="pageNumber" min="1" max="604" placeholder="Enter Page Number" value="1">
+    </div>
+    <div class="pageLoading" id="pageLoading">
+        <ul>
+            <li id="showTafsir" onclick="loadPage('tafsir.html')">التفسير</li>
+            <li>|</li>
+            <li id="showAqsam" onclick="loadPage('aqsam.html')">المحاور</li>
+        </ul>
+    </div>
+</div>
+<div class="mainContent">
+    <div class="QuranPage" id="QuranPage">
+        <p class="quranPageContent" id="quranPageContent"></p>
+    </div>
+    <div class="TafsirPage" id="TafsirPage">
+
+    </div>
+</div>
+<script type="module" src="js/basair.js"></script>
+</body>
+</html>

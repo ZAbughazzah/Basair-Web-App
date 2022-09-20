@@ -1,0 +1,42 @@
+/********************************************************* Tree *******************************************************/
+
+.treeBar {
+    background-color: #29c5c9;
+    height: 2rem;
+    width: 100%;
+    border: none;
+    box-shadow: 0px 4px 12px 0px rgb(32, 131, 131);
+    appearance: none;
+}
+
+/*//Here*/
+.treeBtn {
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    padding-right: 2rem;
+    height: 2rem;
+    width: 100%;
+    border: none;
+    box-shadow: 0px 4px 12px 0px rgb(32, 131, 131);
+    appearance: none;
+}
+
+.treeBtn:focus {
+    outline: none !important;
+}
+
+.MahawerListGroup {
+    text-align: right;
+    color: white;
+    background-color: #29c5c9;
+    font-size: x-large;
+    margin: 2rem;
+}
+
+.MahawerListOption {
+    color: black;
+    background-color: white;
+    font-size: large;
+}

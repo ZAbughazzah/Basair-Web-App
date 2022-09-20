@@ -1,0 +1,212 @@
+[
+    {
+       "index": 1,
+       "sura": 1,
+       "aya": 1,
+       "page": 1,
+      "pageEnd": 21
+    },
+    {
+       "index": 2,
+       "sura": 2,
+       "aya": 142,
+      "page": 22,
+      "pageEnd": 41
+    },
+    {
+       "index": 3,
+       "sura": 2,
+       "aya": 253,
+      "page": 42,
+      "pageEnd": 61
+    },
+    {
+       "index": 4,
+       "sura": 3,
+       "aya": 92,
+      "page": 62,
+      "pageEnd": 81
+    },
+    {
+       "index": 5,
+       "sura": 4,
+       "aya": 24,
+      "page": 82,
+      "pageEnd": 101
+    },
+    {
+       "index": 6,
+       "sura": 4,
+       "aya": 148,
+      "page": 102,
+      "pageEnd": 120
+    },
+    {
+       "index": 7,
+       "sura": 5,
+       "aya": 83,
+      "page": 121,
+      "pageEnd": 141
+    },
+    {
+       "index": 8,
+       "sura": 6,
+       "aya": 111,
+      "page": 142,
+      "pageEnd": 161
+    },
+    {
+       "index": 9,
+       "sura": 7,
+       "aya": 88,
+      "page": 162,
+      "pageEnd": 181
+    },
+    {
+       "index": 10,
+       "sura": 8,
+       "aya": 41,
+      "page": 182,
+      "pageEnd": 200
+    },
+    {
+       "index": 11,
+       "sura": 9,
+       "aya": 94,
+      "page": 201,
+      "pageEnd": 221
+    },
+    {
+       "index": 12,
+       "sura": 11,
+       "aya": 6,
+      "page": 222,
+      "pageEnd": 241
+    },
+    {
+       "index": 13,
+       "sura": 12,
+       "aya": 53,
+      "page": 242,
+      "pageEnd": 261
+    },
+    {
+       "index": 14,
+       "sura": 15,
+       "aya": 1,
+      "page": 262,
+      "pageEnd": 281
+    },
+    {
+       "index": 15,
+       "sura": 17,
+       "aya": 1,
+      "page": 282,
+      "pageEnd": 301
+    },
+    {
+       "index": 16,
+       "sura": 18,
+       "aya": 75,
+      "page": 302,
+      "pageEnd": 321
+    },
+    {
+       "index": 17,
+       "sura": 21,
+       "aya": 1,
+      "page": 322,
+      "pageEnd": 341
+    },
+    {
+       "index": 18,
+       "sura": 23,
+       "aya": 1,
+      "page": 342,
+      "pageEnd": 361
+    },
+    {
+       "index": 19,
+       "sura": 25,
+       "aya": 21,
+      "page": 362,
+      "pageEnd": 381
+    },
+    {
+       "index": 20,
+       "sura": 27,
+       "aya": 56,
+      "page": 382,
+      "pageEnd": 401
+    },
+    {
+       "index": 21,
+       "sura": 29,
+       "aya": 46,
+      "page": 402,
+      "pageEnd": 421
+    },
+    {
+       "index": 22,
+       "sura": 33,
+       "aya": 31,
+      "page": 422,
+      "pageEnd": 441
+    },
+    {
+       "index": 23,
+       "sura": 36,
+       "aya": 28,
+      "page": 442,
+      "pageEnd": 461
+    },
+    {
+       "index": 24,
+       "sura": 39,
+       "aya": 32,
+      "page": 462,
+      "pageEnd": 481
+    },
+    {
+       "index": 25,
+       "sura": 41,
+       "aya": 47,
+      "page": 482,
+      "pageEnd": 501
+    },
+    {
+       "index": 26,
+       "sura": 45,
+       "aya": 33,
+      "page": 502,
+      "pageEnd": 521
+    },
+    {
+       "index": 27,
+       "sura": 51,
+       "aya": 31,
+      "page": 522,
+      "pageEnd": 541
+    },
+    {
+       "index": 28,
+       "sura": 58,
+       "aya": 1,
+      "page": 542,
+      "pageEnd": 561
+    },
+    {
+       "index": 29,
+       "sura": 67,
+       "aya": 1,
+      "page": 562,
+      "pageEnd": 581
+    },
+    {
+       "index": 30,
+       "sura": 78,
+       "aya": 1,
+      "page": 582,
+      "pageEnd": 604
+    }
+ ]

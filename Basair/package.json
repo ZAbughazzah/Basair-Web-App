@@ -1,0 +1,24 @@
+{
+  "name": "Basair",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.2.3"
+  },
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}

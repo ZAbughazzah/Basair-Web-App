@@ -1,0 +1,53 @@
+/******************************************************** Page Navigation *********************************************/
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+
+}
+
+.pageLoading ul {
+    font-size: 2rem;
+    display: inline-flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding-left: 1.5rem;
+}
+
+.pageLoading a {
+    text-decoration: none;
+}
+
+.pageLoading li:hover {
+    cursor: pointer;
+}
+
+.pageLoading li {
+    color: #29c5c9;
+    margin: 0.5rem;
+    font-size: x-large;
+}
+
+.pageNavigator {
+    alignment: right;
+    padding: 2rem;
+}
+
+.pageNumber {
+    display: block;
+    padding: 0 1rem 0 0;
+}
+
+.pageNumber:focus {
+    outline: none !important;
+}
+
+#pageNumber {
+    width: 8.5rem;
+    height: 2rem;
+    box-shadow: 2px 2px 2px 2px rgb(32, 131, 131);
+    border: 0.1rem solid #29c5c9;
+    border-radius: 0.2rem;
+}
